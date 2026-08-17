@@ -6,7 +6,10 @@
   "author": "Fernando Macias (mdfernandomacias@gmail.com)",
   "type": "commonjs",
   "main": "index.js",
-  "keywords": ["javascript", "modulos"],
+  "keywords": [
+    "javascript",
+    "modulos"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
