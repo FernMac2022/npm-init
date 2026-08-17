@@ -11,7 +11,7 @@
     "modulos"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
